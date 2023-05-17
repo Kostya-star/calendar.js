@@ -26,6 +26,11 @@ ul {
         justify-content: end;
         gap: 20px;
         margin-bottom: 20px;
+        button {
+            padding: 0px 10px;
+            background-color: greenyellow;
+            cursor: pointer;
+        }
     }
 
     &__week {
