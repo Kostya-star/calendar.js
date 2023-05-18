@@ -18,7 +18,7 @@ const months = [
   'October',
   'November',
   'December',
-]
+];
 
 const renderCalendar = (currentMonthInd, currentYear) => {
   const currentMonth = months[currentMonthInd];
